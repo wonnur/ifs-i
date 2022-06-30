@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49729514783",
+    "project_id": "ifs-group-i",
+    "storage_bucket": "ifs-group-i.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49729514783:android:c0bed6f8f5f8b5ed2f542a",
+        "android_client_info": {
+          "package_name": "com.example.instant_feedback_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49729514783-k5qa3cha047oo5pa7sl9gfnt65fpudoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw9PyUi2Z3wxdcJo7ePi37zc4ET2VC8Es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49729514783-k5qa3cha047oo5pa7sl9gfnt65fpudoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
